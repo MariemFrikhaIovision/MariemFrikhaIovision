@@ -17,11 +17,11 @@
 
 ## 💼 Expériences professionnelles principales
 
-### 🔹 Développeur Full Stack | Application Centre d’Hémodialyse – IOVISION (2025–)
+### 🔹 Développeur Full Stack | Application Centre d’Hémodialyse – IOVISION (2025)
 Développement complet d’une application web pour la gestion d’un centre d’hémodialyse (patients, examens, factures, rapports, administration).  
-- Migration de modules Oracle vers **Java/JEE** et **Angular**
+- Migration de modules Oracle vers **strapi** et **Angular**
 - Formation et accompagnement de nouveaux développeurs  
-🛠️ **Technologies :** Java 11, Spring Boot, Angular, Oracle, Bootstrap
+🛠️ **Technologies :** strapi, Angular, Bootstrap
 
 ---
 
